@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<systems>
+  <system sid="PRD" client="200" sysnr="00" host="prd200.example.org"/>
+  <system sid="TST" client="300" sysnr="00" host="tst300.example.org"/>
+  <system sid="DEV" client="100" sysnr="02" host="dev100.example.org"/>
+</systems>
