@@ -1,4 +1,4 @@
-package kennw.andern;
+package passwd_changer;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;

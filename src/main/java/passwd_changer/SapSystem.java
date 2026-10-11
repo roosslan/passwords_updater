@@ -1,4 +1,4 @@
-package kennw.andern;
+package passwd_changer;
 
 /** Описание SAP-системы: SID, клиент, номер системы и хост сервера приложений. */
 public final class SapSystem {

@@ -1,4 +1,4 @@
-package kennw.andern;
+package passwd_changer;
 
 import javax.swing.SwingUtilities;
 import javax.swing.UIManager;
@@ -17,8 +17,8 @@ public final class Main {
                 } catch (Exception ignored) {
                     // остаётся стандартный вид
                 }
-                // systems.xml и kennw.log ищутся в текущей директории
-                new MainFrame(new File("systems.xml"), new FileLog(new File("kennw.log"))).setVisible(true);
+                // systems.xml и passwd_changer.log ищутся в текущей директории
+                new MainFrame(new File("systems.xml"), new FileLog(new File("passwd_changer.log"))).setVisible(true);
             }
         });
     }
