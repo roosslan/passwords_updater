@@ -1,4 +1,4 @@
-package kennw.andern;
+package passwd_changer;
 
 import javax.swing.BorderFactory;
 import javax.swing.JButton;
@@ -36,7 +36,7 @@ public class MainFrame extends JFrame {
     private final JTextArea results = new JTextArea(8, 40);
 
     public MainFrame(File systemsFile, FileLog log) {
-        super("kennw-andern 2.2");
+        super("passwd_changer 2.2");
         this.log = log;
         setDefaultCloseOperation(EXIT_ON_CLOSE);
 

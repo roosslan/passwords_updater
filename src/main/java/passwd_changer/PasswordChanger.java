@@ -1,4 +1,4 @@
-package kennw.andern;
+package passwd_changer;
 
 import com.sap.conn.jco.JCoDestination;
 import com.sap.conn.jco.JCoDestinationManager;

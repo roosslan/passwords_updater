@@ -1,4 +1,4 @@
-package kennw.andern;
+package passwd_changer;
 
 import java.io.File;
 import java.io.IOException;
@@ -8,7 +8,7 @@ import java.nio.file.StandardOpenOption;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-/** Журнал в файл kennw.log. Пароли в журнал не попадают. */
+/** Журнал в файл passwd_changer.log. Пароли в журнал не попадают. */
 public final class FileLog {
     private final File file;
 
